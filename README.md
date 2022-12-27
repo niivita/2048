@@ -1,4 +1,7 @@
 # 2048
-https://verdant-sherbet-bd6d0e.netlify.app/
 
-CSDS221 Project 3
+CSDS221 Full Stack Web Develpoment Course, Project 3 
+
+[View game with Netlify ](https://verdant-sherbet-bd6d0e.netlify.app/)
+
+
