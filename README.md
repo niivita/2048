@@ -4,6 +4,8 @@ Game objective: Slide the numbered tiles (using the arrow keys) on the grid to c
 
 CSDS221 Full Stack Web Develpoment Course, Project 3 
 
+Deployed via Netlify, utilized vanilla HTML, CSS and Javascript
+
 [Click here to view game on Netlify ](https://verdant-sherbet-bd6d0e.netlify.app/)
 
 
