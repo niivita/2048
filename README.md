@@ -2,6 +2,6 @@
 
 CSDS221 Full Stack Web Develpoment Course, Project 3 
 
-[View game with Netlify ](https://verdant-sherbet-bd6d0e.netlify.app/)
+[Click here to view game on Netlify ](https://verdant-sherbet-bd6d0e.netlify.app/)
 
 
